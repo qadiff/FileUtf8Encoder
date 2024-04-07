@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileUtf8Encoder": {
+      "commandName": "Project",
+      "commandLineArgs": "example-shift-jis.txt"
+    }
+  }
+}
