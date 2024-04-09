@@ -14,6 +14,12 @@ This is a C# program that detects the character encoding of a file and converts 
 
 The program will detect the file's character encoding, convert it to UTF-8 (without BOM), and overwrite the original file with the converted content.
 
+## Caution for Japanese users!
+
+The program [nkf.exe](https://ja.osdn.net/projects/nkf/) is superior to this program.   
+The reason this program was created is because the Windows version of nkf could not be found at that time.  
+I would be happy if you use this program, but I recommend nkf.exe over this program.
+
 ## License
 
 Copyright 2024 Qadiff LLC
